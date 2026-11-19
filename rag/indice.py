@@ -6,7 +6,7 @@ import sqlite3
 import unicodedata
 from collections import Counter
 
-VACIAS = set("a al con como cual de del el en es la las lo los me mi para por que se sin su un una y".split())
+VACIAS = set("a al con como cual de del el en es la las lo los metodo permite me mi para por que se sin su un una y".split())
 
 
 def palabras(texto):

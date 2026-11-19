@@ -1,0 +1,34 @@
+[
+  [
+    "¿Cómo agrego una nota al final de una lista?",
+    1
+  ],
+  [
+    "¿Qué método permite ordenar una lista?",
+    2
+  ],
+  [
+    "¿Cómo funciona una pila?",
+    3
+  ],
+  [
+    "¿Cómo retiro al primero de una cola?",
+    4
+  ],
+  [
+    "¿Puedo reasignar elementos de una tupla?",
+    5
+  ],
+  [
+    "¿Cómo quito valores duplicados?",
+    6
+  ],
+  [
+    "¿Cómo recorro claves y valores de un diccionario?",
+    7
+  ],
+  [
+    "¿Cuánto cuesta viajar a Marte?",
+    null
+  ]
+]
