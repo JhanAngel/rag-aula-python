@@ -1,0 +1,37 @@
+[
+  {
+    "tema": "Listas",
+    "texto": "Para agregar un elemento al final de una lista se usa append. Por ejemplo, notas.append(5) guarda la nueva nota después de las anteriores.",
+    "fuente": "https://docs.python.org/es/3/tutorial/datastructures.html"
+  },
+  {
+    "tema": "Listas",
+    "texto": "Para ordenar una lista en el mismo sitio se usa sort. Para invertir el orden actual de sus elementos se usa reverse.",
+    "fuente": "https://docs.python.org/es/3/tutorial/datastructures.html"
+  },
+  {
+    "tema": "Pilas",
+    "texto": "Una pila devuelve primero el último elemento que entró. En una lista, append agrega un elemento y pop() retira el último.",
+    "fuente": "https://docs.python.org/es/3/tutorial/datastructures.html"
+  },
+  {
+    "tema": "Colas",
+    "texto": "Una cola atiende primero al que llegó primero. Con collections.deque, append agrega al final y popleft retira el elemento del frente.",
+    "fuente": "https://docs.python.org/es/3/tutorial/datastructures.html"
+  },
+  {
+    "tema": "Tuplas",
+    "texto": "Una tupla mantiene sus posiciones y no permite reasignar sus elementos. Se puede desempaquetar una pareja con x, y = punto.",
+    "fuente": "https://docs.python.org/es/3/tutorial/datastructures.html"
+  },
+  {
+    "tema": "Conjuntos",
+    "texto": "Un conjunto guarda valores sin duplicados. Para quitar elementos repetidos de una lista se puede convertir a set. El conjunto no conserva posiciones para acceder por índice.",
+    "fuente": "https://docs.python.org/es/3/tutorial/datastructures.html"
+  },
+  {
+    "tema": "Diccionarios",
+    "texto": "Un diccionario asocia claves con valores. Se consulta un valor mediante su clave. El método items permite recorrer las parejas de clave y valor.",
+    "fuente": "https://docs.python.org/es/3/tutorial/datastructures.html"
+  }
+]
